@@ -1,0 +1,16 @@
+Calculate the area and circumference of a circle
+
+1.	STORE “R” without any value
+2.	STORE “Φ / phi” without any value
+3.	STORE “Luas Lingkaran” without any value
+4.	STORE “Keliling Lingkaran” without any value
+5.	INPUT “R”
+6.	SET “R” with INPUT result
+7.	INPUT “phi”
+8.	SET “phi” with INPUT result
+9.	CALCULATE “Luas Lingkaran” with “phi” times “R” times "R"
+10.	SET “Luas Lingkaran” with calculation result
+11.	Display “Luas Lingkaran”
+12.	CALCULATE “Keliling Lingkaran” with "2" times “phi” times “R”
+13.	SET “Keliling Lingkaran with calculation result”
+14.	Display “Keliling Lingkaran”

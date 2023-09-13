@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" modified="2023-09-11T14:14:45.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QW2gSUBrESEipQiPeisJ" version="21.7.4" type="device">
+  <diagram name="Halaman-1" id="YZbxmN98labCpRQE7Xsl">
+    <mxGraphModel dx="1687" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ywa0Sc6RqA5fMvVgNphT-1" target="Ywa0Sc6RqA5fMvVgNphT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="80" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-3" value="INPUT &quot;Jari-Jari LIngkaran&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="127.5" height="63.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ywa0Sc6RqA5fMvVgNphT-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417.5" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-4" value="SIMPAN &quot;Jari-Jari Lingkaran sebagai variabel r&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ywa0Sc6RqA5fMvVgNphT-10" target="Ywa0Sc6RqA5fMvVgNphT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-10" value="SIMPAN &quot;Nilai PHI = 3,14&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ywa0Sc6RqA5fMvVgNphT-14" target="Ywa0Sc6RqA5fMvVgNphT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-14" value="SIMPAN &quot;Rumus Luas Lingkaran &lt;br&gt;= phi * 2r" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="434.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ywa0Sc6RqA5fMvVgNphT-18" target="Ywa0Sc6RqA5fMvVgNphT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-18" value="SIMPAN &quot;Rumus Keliling Lingkaran &lt;br&gt;= 2 * phi * r" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ywa0Sc6RqA5fMvVgNphT-21" target="Ywa0Sc6RqA5fMvVgNphT-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-36" value="Benar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ywa0Sc6RqA5fMvVgNphT-25">
+          <mxGeometry x="-0.1875" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ywa0Sc6RqA5fMvVgNphT-21" target="Ywa0Sc6RqA5fMvVgNphT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-35" value="Salah" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ywa0Sc6RqA5fMvVgNphT-27">
+          <mxGeometry x="-0.0875" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-21" value="Menghitung Luas Lingkaran ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="660" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ywa0Sc6RqA5fMvVgNphT-24" target="Ywa0Sc6RqA5fMvVgNphT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-24" value="MENGHITUNG&lt;br&gt;&amp;nbsp;Luas Lingkaran dengan rumus&lt;br&gt;&quot; phi *2r&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ywa0Sc6RqA5fMvVgNphT-26" target="Ywa0Sc6RqA5fMvVgNphT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-26" value="MENGHITUNG Keliling Lingkaran dengan rumus&lt;br&gt;&quot;2 * phi * r&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ywa0Sc6RqA5fMvVgNphT-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417.75" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-28" value="TAMPILKAN Hasil Perhitungan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="347.75" y="860" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ywa0Sc6RqA5fMvVgNphT-37" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="980" width="75" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
