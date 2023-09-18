@@ -1,0 +1,59 @@
+body {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 kolom */
+    grid-template-rows: auto auto 1fr auto; /* 1 baris header, 2 baris isi, 1 baris footer */
+    grid-gap: 10px;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    grid-column: 1 / -1; /* Menjangkau seluruh kolom */
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+
+.col {
+    background-color: lightgreen;
+    padding: 20px;
+    text-align: center;
+}
+
+.col1 {
+    grid-column: 1 / 2; /* Kolom 1 */
+    grid-row: 2 / 3; /* Baris 2 */
+}
+
+.col2 {
+    grid-column: 2 / 3; /* Kolom 2 */
+    grid-row: 2 / 3; /* Baris 2 */
+}
+
+.col3 {
+    grid-column: 3 / 4; /* Kolom 3 */
+    grid-row: 2 / 3; /* Baris 2 */
+}
+
+.col4 {
+    grid-column: 1 / 2; /* Kolom 1 */
+    grid-row: 3 / 4; /* Baris 3 */
+}
+
+.col5 {
+    grid-column: 2 / 3; /* Kolom 2 */
+    grid-row: 3 / 4; /* Baris 3 */
+}
+
+.col6 {
+    grid-column: 3 / 4; /* Kolom 3 */
+    grid-row: 3 / 4; /* Baris 3 */
+}
+
+.footer {
+    grid-column: 1 / -1; /* Menjangkau seluruh kolom */
+    background-color: lightcoral;
+    padding: 20px;
+    text-align: center;
+}
